@@ -5,6 +5,7 @@ public class FirstGit {
         System.out.println("hello,git");
         FirstGit firstGit=new FirstGit();
         firstGit.gitTest();
+        //修改过了
     }
 
     public  void gitTest(){
