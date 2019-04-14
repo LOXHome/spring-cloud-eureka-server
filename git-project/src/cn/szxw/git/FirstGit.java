@@ -6,6 +6,7 @@ public class FirstGit {
         FirstGit firstGit=new FirstGit();
         firstGit.gitTest();
         //修改过了
+        //master输了
     }
 
     public  void gitTest(){
